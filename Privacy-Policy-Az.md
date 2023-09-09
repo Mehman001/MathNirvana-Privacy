@@ -4,7 +4,7 @@ Proqramı endirməklə və ya istifadə etməklə bu şərtlər avtomatik olaraq
 
 Mehman Musayev proqramın mümkün qədər faydalı və səmərəli olmasını təmin etməyə sadiqdir. Bu səbəbdən, biz istənilən vaxt və hər hansı səbəbdən tətbiqdə dəyişiklik etmək və ya onun xidmətləri üçün ödəniş etmək hüququnu özümüzdə saxlayırıq. Biz sizə tam olaraq nəyə görə ödədiyinizi aydınlaşdırmadan proqram və ya onun xidmətləri üçün sizdən heç vaxt ödəniş almayacağıq.
 
-MathNirvana proqramı, Xidmətimi təmin etmək üçün bizə təqdim etdiyiniz şəxsi məlumatları saxlayır və emal edir. Telefonunuzu və tətbiqə girişi təhlükəsiz saxlamaq sizin məsuliyyətinizdir. Buna görə də, telefonunuzu jailbreak etməməyi və ya root etməməyi tövsiyə edirik, bu, cihazınızın rəsmi əməliyyat sistemi tərəfindən qoyulmuş proqram məhdudiyyətlərinin və limitlərinin aradan qaldırılması prosesidir. Bu, telefonunuzu zərərli proqramlara/viruslara qarşı həssas edə, telefonunuzun təhlükəsizlik xüsusiyyətlərini poza bilər və bu, MathNirvana tətbiqinin düzgün və ya ümumiyyətlə işləməyəcəyi anlamına gələ bilər.
+MathNirvana proqramı, Xidmətimi təmin etmək üçün bizə təqdim etdiyiniz şəxsi məlumatları saxlayır və emal edir. Telefonunuzu və tətbiqə girişi təhlükəsiz saxlamaq sizin məsuliyyətinizdir. Buna görə də, telefonunuzu jailbreak etməməyi və ya root etməməyi tövsiyə edirik, bu, cihazınızın rəsmi əməliyyat sistemi tərəfindən qoyulmuş proqram məhdudiyyətlərinin və limitlərinin aradan qaldırılması prosesidir. Bu, telefonunuzu zərərli proqramlara/viruslara qarşı həssas edə, telefonunuzun təhlükəsizlik xüsusiyyətlərini poza bilər və bu, Math Nirvana tətbiqinin düzgün və ya ümumiyyətlə işləməyəcəyi anlamına gələ bilər.
 
 Tətbiq öz Qayda və Şərtlərini bəyan edən üçüncü tərəf xidmətlərindən istifadə edir.
 
@@ -14,6 +14,8 @@ Tətbiq tərəfindən istifadə edilən üçüncü tərəf xidmət təminatçıl
 *   [AdMob](https://developers.google.com/admob/terms)
 *   [Facebook Audience Network](https://www.facebook.com/ads/manage/audience_network/publisher_tos/)
 *   [AppLovin](https://www.applovin.com/privacy/)
+*   [Appodeal](https://appodeal.com/privacy-policy/)
+*   [Google Play Developer Distribution Agreement](https://play.google.com/about/developer-distribution-agreement.html)
 
 Bilməlisiniz ki, Mehman Musayevin məsuliyyət daşımayacağı müəyyən işlər var. Proqramın müəyyən funksiyaları tətbiqdən aktiv internet bağlantısı tələb edəcək. Bağlantı Wi-Fi və ya mobil şəbəkə provayderiniz tərəfindən təmin oluna bilər, lakin Wi-Fi-a çıxışınız yoxdursa və heç bir şəbəkəniz yoxdursa, Mehman Musayev proqramın tam funksionallıqda işləməməsinə görə məsuliyyət daşıya bilməz.
 Bundan əlavə, proqram reklamlara xidmət etmək üçün Facebook Audience Network və AppLovin-dən istifadə edir. Mehman Musayev proqramda göstərilən reklamların məzmununa və düzgünlüyünə və ya bu üçüncü tərəfin reklam xidmətlərindən istifadə nəticəsində yarana biləcək hər hansı problemə görə məsuliyyət daşımır.
